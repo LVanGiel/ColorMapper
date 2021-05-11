@@ -1,0 +1,12 @@
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\bin\Debug\netcoreapp2.1\ColorMapper.deps.json
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\bin\Debug\netcoreapp2.1\ColorMapper.runtimeconfig.json
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\bin\Debug\netcoreapp2.1\ColorMapper.runtimeconfig.dev.json
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\bin\Debug\netcoreapp2.1\ColorMapper.dll
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\bin\Debug\netcoreapp2.1\ColorMapper.pdb
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\obj\Debug\netcoreapp2.1\ColorMapper.csprojAssemblyReference.cache
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\obj\Debug\netcoreapp2.1\ColorMapper.AssemblyInfoInputs.cache
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\obj\Debug\netcoreapp2.1\ColorMapper.AssemblyInfo.cs
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\obj\Debug\netcoreapp2.1\ColorMapper.csproj.CoreCompileInputs.cache
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\obj\Debug\netcoreapp2.1\ColorMapper.dll
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\obj\Debug\netcoreapp2.1\ColorMapper.pdb
+C:\Users\lucas.RINGPHONE\Desktop\New folder\ColorMapper\ColorMapper\obj\Debug\netcoreapp2.1\ColorMapper.genruntimeconfig.cache
