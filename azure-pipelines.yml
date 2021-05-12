@@ -12,7 +12,7 @@ pool:
 variables:
   buildConfiguration: 'Release'
 
-teps:
+steps:
 - task: UseDotNet@2
   inputs:
     version: '5.0.x'
